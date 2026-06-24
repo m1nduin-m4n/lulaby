@@ -1,0 +1,90 @@
+*{
+   /* border: 0; */
+   margin: 0;
+   padding: 0; 
+
+}
+
+
+header{
+    margin: 0;
+    background-color:rgb(90, 144, 205);
+    color: rgb(19, 61, 88);
+   
+    text-align: center;
+   
+}
+
+section{
+    font-size:16px ;
+    font-family: arial;
+    /* color: brown; */
+    box-shadow: 1px 1px 5px rgb(64, 133, 189);
+    width: 80%;
+    margin: 0 auto;
+    /* text-align: center; */
+    padding: 3%;
+}
+
+i{
+    font-size: 30px;
+    color: red;
+}
+
+footer{
+    background-color:rgb(79, 183, 243);
+    color: rgb(1, 51, 92);
+    padding: 3%;
+    text-align: center;
+    
+}
+
+h3{
+
+    font-family: arial;
+    font-size: 35px;
+    text-shadow: 1px 1px 5px black;
+}
+
+h4{
+ font-family: arial;
+    font-size: 30px;
+    text-shadow: 1px 1px 5px black;
+
+}
+
+
+
+p{
+    font-size: 16px;
+    font-family: arial;
+    text-align: justify;
+}
+
+.paragrafo{
+
+text-align: center;
+
+
+}th{
+    border-radius: 25px;
+    border: solid 2px rgb(68, 190, 247);
+    background-color: rgb(83, 154, 212);
+}
+
+table{
+    text-align: center;
+    border: solid 2px rgb(64, 133, 189);
+}
+
+
+/* .caixa_principal{
+
+     display: flex; 
+     align-items: center;     
+     justify-content: space-between; 
+    
+     
+} */
+
+ 
