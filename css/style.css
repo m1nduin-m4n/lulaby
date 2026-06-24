@@ -19,7 +19,7 @@ section{
     font-size:16px ;
     font-family: arial;
     /* color: brown; */
-    box-shadow: 1px 1px 5px rgb(64, 133, 189);
+    box-shadow: 1px 1px 5px rgb(114, 181, 236);
     width: 80%;
     margin: 0 auto;
     /* text-align: center; */
@@ -43,13 +43,13 @@ h3{
 
     font-family: arial;
     font-size: 35px;
-    text-shadow: 1px 1px 5px black;
+    text-shadow: 1px 1px 5px rgb(77, 94, 107);
 }
 
 h4{
  font-family: arial;
     font-size: 30px;
-    text-shadow: 1px 1px 5px black;
+    text-shadow: 1px 1px 5px rgb(77, 94, 107);
 
 }
 
